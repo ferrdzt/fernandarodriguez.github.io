@@ -27,7 +27,7 @@ _Brand Representative_ | Sept. 2024 – Present
 • Provide customer service in a dynamic retail environment.  
 • Collaborate with team members and managers to drive store performance.  
 
-_Stock Associate_ | Jun. 2024 – Sept. 2024  
+*Stock Associate* | Jun. 2024 – Sept. 2024  
 
 •Handled inventory operations, product replenishment, and backroom organization to support daily store readiness and customer satisfaction.
 
@@ -39,7 +39,7 @@ _Researcher Analyst - Sales & Marketing_ | Feb. 2023 - Oct. 2023
 • Assess the needs of clients to provide tailored solutions.  
 • Provide specialized consulting services to both clients and candidates, ensuring optimal matches and satisfaction. 
 
-_Researcher Intern_ | Jul. 2022 - Jan. 2023  
+*Researcher Intern* | Jul. 2022 - Jan. 2023  
 
 • Recruitment consultant specializing in senior-level positions in the Finance, HR, and Engineering Industries.  
 • Increase customer base and business turnover by actively participating in different business strategies.
