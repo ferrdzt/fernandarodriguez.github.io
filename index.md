@@ -81,7 +81,6 @@ ID: 133415157 | Exp. Feb. 2026
 ---
 
 ##  Contact  
-
-📍 Vancouver, Canada  
-🔗 [LinkedIn](https://www.linkedin.com/in/fernanda-rodr%C3%ADguez-tamez/)  
+ Vancouver, Canada  
+ [LinkedIn](https://www.linkedin.com/in/fernanda-rodr%C3%ADguez-tamez/)  
 email: fernandarodriguez281099@gmail.com
