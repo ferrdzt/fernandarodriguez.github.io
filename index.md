@@ -1,4 +1,4 @@
-<img src="profile.jpg" alt="Fernanda Rodríguez Tamez" width="150" style="border-radius: 50%; display: block; margin: auto;">
+<img src="PP_2323866.png" alt="Fernanda Rodríguez Tamez" width="150" style="border-radius: 50%; display: block; margin: auto;">
 
 # Fernanda Rodríguez Tamez  
 MBA Candidate | Psychology Graduate 
