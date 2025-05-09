@@ -6,107 +6,165 @@
   <title>Fernanda Rodríguez Tamez | Portfolio</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #eaf4f8;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #2563eb;
       margin: 0;
-      padding: 40px;
-      color: #333;
+      padding: 0;
+      color: #fff;
     }
-    .container {
-      max-width: 750px;
-      margin: 0 auto;
-      background-color: #ffffff;
-      padding: 30px;
-      border-radius: 10px;
-      box-shadow: 0 4px 16px rgba(0, 128, 149, 0.15);
-      border-top: 6px solid #008095;
+
+    .navbar {
+      width: 100%;
+      background-color: #1e40af;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: white;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
-    .profile-pic {
-      display: block;
-      margin: 0 auto 20px auto;
-      width: 150px;
-      border-radius: 50%;
-      border: 3px solid #008095;
-    }
-    h1, h2, h3 {
-      text-align: left;
-      margin-bottom: 10px;
-    }
-    h1 {
-      color: #008095;
-    }
-    h3 {
-      color: #008095;
-    }
-    section {
-      margin-top: 30px;
-    }
-    ul, li {
-      margin-bottom: 10px;
-    }
-    .contact p {
-      margin: 5px 0;
-    }
-    .highlight {
+
+    .nav-left {
       font-weight: bold;
+      font-size: 1rem;
     }
+
+    .nav-right a {
+      margin-left: 20px;
+      color: #e0f2fe;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+
+    .nav-right a:hover {
+      text-decoration: underline;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 60px 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .profile-pic {
+      width: 160px;
+      height: 160px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #fff;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.25rem;
+      color: #ffffff;
+    }
+
+    h2 {
+      font-size: 1.25rem;
+      font-weight: 400;
+      margin-bottom: 2rem;
+      color: #dbeafe;
+    }
+
+    section {
+      margin-top: 40px;
+      text-align: left;
+      width: 100%;
+    }
+
+    h3 {
+      color: #bfdbfe;
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+    }
+
+    p, li {
+      line-height: 1.6;
+      font-size: 1rem;
+      color: #f1f5f9;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
     a {
-      color: #008095;
+      color: #93c5fd;
       text-decoration: none;
     }
+
     a:hover {
       text-decoration: underline;
     }
   </style>
 </head>
 <body>
+  <div class="navbar">
+    <div class="nav-left">Fernanda Rodríguez Tamez</div>
+    <div class="nav-right">
+      <a href="#about">About</a>
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </div>
+
   <div class="container">
     <img src="PP_2323866.png" alt="Fernanda Rodríguez Tamez" class="profile-pic">
 
     <h1>Fernanda Rodríguez Tamez</h1>
     <h2>MBA Candidate | Psychology Graduate</h2>
 
-    <section>
+    <section id="about">
       <h3>About Me</h3>
       <p>Psychologist and MBA candidate with academic and professional experience in HR, recruitment. Currently pursuing an MBA at University Canada West with a concentration in business analytics.</p>
     </section>
 
-    <section>
+    <section id="education">
       <h3>Education</h3>
-      <p><span class="highlight">University Canada West</span><br>
-      MBA Candidate | 2024 &ndash; 2025<br>
+      <p><strong>University Canada West</strong><br>
+      MBA Candidate | 2024 – 2025<br>
       Focus: Business Analytics, Strategic Management, Digital Marketing</p>
 
-      <p><span class="highlight">Instituto Tecnologico de Monterrey, Mexico</span><br>
+      <p><strong>Instituto Tecnologico de Monterrey, Mexico</strong><br>
       BA in Psychology | 2022</p>
     </section>
 
-    <section>
+    <section id="experience">
       <h3>Experience</h3>
-      <p><span class="highlight">Abercrombie & Fitch, Vancouver</span><br>
-      Brand Representative | Sept. 2024 &ndash; Present<br>
-      &bull; Provide customer service in a dynamic retail environment.<br>
-      &bull; Collaborate with team members and managers to drive store performance.</p>
+      <p><strong>Abercrombie & Fitch, Vancouver</strong><br>
+      Brand Representative | Sept. 2024 – Present<br>
+      • Provide customer service in a dynamic retail environment.<br>
+      • Collaborate with team members and managers to drive store performance.</p>
 
-      <p>Stock Associate | Jun. 2024 &ndash; Sept. 2024<br>
-      &bull; Handled inventory operations, product replenishment, and backroom organization to support daily store readiness and customer satisfaction.</p>
+      <p>Stock Associate | Jun. 2024 – Sept. 2024<br>
+      • Handled inventory operations, product replenishment, and backroom organization to support daily store readiness and customer satisfaction.</p>
 
-      <p><span class="highlight">Michael Page, Mexico</span><br>
+      <p><strong>Michael Page, Mexico</strong><br>
       Researcher Analyst - Sales & Marketing | Feb. 2023 - Oct. 2023<br>
-      &bull; Recruitment consultant specializing in executive and managerial roles in Marketing, Sales, Operations, Digital for Retail Services, FMCG, and Technology.<br>
-      &bull; Contribute to the growth and commercial development division.<br>
-      &bull; Assess the needs of clients to provide tailored solutions.<br>
-      &bull; Provide specialized consulting services to both clients and candidates, ensuring optimal matches and satisfaction.</p>
+      • Recruitment consultant specializing in executive and managerial roles in Marketing, Sales, Operations, Digital for Retail Services, FMCG, and Technology.<br>
+      • Contribute to the growth and commercial development division.<br>
+      • Assess the needs of clients to provide tailored solutions.<br>
+      • Provide specialized consulting services to both clients and candidates, ensuring optimal matches and satisfaction.</p>
 
       <p>Researcher Intern | Jul. 2022 - Jan. 2023<br>
-      &bull; Recruitment consultant specializing in senior-level positions in the Finance, HR, and Engineering Industries.<br>
-      &bull; Increase customer base and business turnover by actively participating in different business strategies.</p>
+      • Recruitment consultant specializing in senior-level positions in the Finance, HR, and Engineering Industries.<br>
+      • Increase customer base and business turnover by actively participating in different business strategies.</p>
 
-      <p><span class="highlight">Totum Talent</span><br>
-      Talent Adquisition Consultant | May. 2021 - Dec. 2021<br>
-      &bull; Source and attract top talent through various channels such as job boards, social media, and networking events.<br>
-      &bull; Screen resumes, conduct initial interviews, and coordinate the hiring process to ensure a seamless candidate experience.<br>
-      &bull; Assist in the development and implementation of recruitment strategies, while collaborating with hiring managers to understand their needs and provide valuable insights.</p>
+      <p><strong>Totum Talent</strong><br>
+      Talent Acquisition Consultant | May. 2021 - Dec. 2021<br>
+      • Source and attract top talent through various channels such as job boards, social media, and networking events.<br>
+      • Screen resumes, conduct initial interviews, and coordinate the hiring process to ensure a seamless candidate experience.<br>
+      • Assist in the development and implementation of recruitment strategies, while collaborating with hiring managers to understand their needs and provide valuable insights.</p>
     </section>
 
     <section>
@@ -119,7 +177,7 @@
       </ul>
     </section>
 
-    <section>
+    <section id="skills">
       <h3>Skills</h3>
       <ul>
         <li>Communication & Interpersonal Skills</li>
@@ -130,7 +188,7 @@
       </ul>
     </section>
 
-    <section class="contact">
+    <section id="contact" class="contact">
       <h3>Contact</h3>
       <p>Vancouver, Canada</p>
       <p><a href="https://www.linkedin.com/in/fernanda-rodr%C3%ADguez-tamez/" target="_blank">LinkedIn</a></p>
