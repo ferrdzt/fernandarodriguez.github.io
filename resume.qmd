@@ -1,0 +1,57 @@
+---
+title: "Resume"
+format: 
+  html:
+    allow-html: true
+---
+
+
+## Education
+
+**University Canada West**  
+MBA Candidate | 2024–2025  
+Focus: Business Analytics, Digital Marketing
+
+**Tecnológico de Monterrey, Mexico**  
+BA in Psychology | 2022
+
+---
+
+## Experience
+
+**Abercrombie & Fitch, Vancouver**  
+Brand Representative | Sept. 2024 – Present  
+- Customer service in a dynamic retail environment  
+- Collaborated with team members to drive store performance
+
+**Michael Page, Mexico**  
+Researcher Analyst – Sales & Marketing | Feb. 2023 – Oct. 2023  
+- Recruited for executive and managerial roles  
+- Provided tailored consulting solutions
+
+**Totum Talent**  
+Talent Acquisition Consultant | May 2021 – Dec. 2021  
+- Managed sourcing, screening, and hiring logistics
+
+---
+
+## Downloadable Resume
+
+[Click here to download the PDF version of my resume](resume.pdf){target="_blank"}
+
+<div style="margin-top: 20px;">
+  <iframe src="resume.pdf" width="100%" height="700px" style="border: 1px solid #ccc;"></iframe>
+</div>
+
+## 📄 Downloadable Resume
+
+[📥 Click here to download the PDF version of my resume](resume.pdf){target="_blank"}
+
+<div style="margin-top: 20px; display: flex; justify-content: center;">
+  <iframe src="resume.pdf"
+          width="80%"
+          height="700px"
+          style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);">
+  </iframe>
+</div>
+

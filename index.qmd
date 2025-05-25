@@ -1,0 +1,20 @@
+---
+title: "Fernanda Rodriguez | MBA Portfolio"
+format: html
+page-layout: full
+---
+
+## Welcome to My Portfolio
+
+This website highlights my journey as an MBA candidate specializing in Business Analytics. You’ll find:
+
+- My academic background and work experience  
+- Projects I've completed  
+- A downloadable version of my resume  
+- Contact information and LinkedIn link
+
+Whether you're a potential employer, collaborator, or just curious—thanks for visiting!
+
+---
+
+📬 For inquiries, visit the [Contact](contact.qmd) page or connect with me on [LinkedIn](https://www.linkedin.com/in/fernandarodrigueztamez/).

@@ -1,0 +1,10 @@
+---
+title: "Projects"
+format: html
+---
+
+## Academic Projects
+
+**AI in Marketing Research (MBA)**  
+Studying how LLMs enhance marketing functions like content generation and customer engagement.  
+- Currently working on model evaluation metrics using the 7Ps framework

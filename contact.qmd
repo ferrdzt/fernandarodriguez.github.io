@@ -1,0 +1,18 @@
+---
+title: "Contact"
+format: html
+---
+
+## Let's Connect
+
+Feel free to reach out!
+
+- 📧 **Email**: [fernandarodriguez281099@gmail.com](mailto:fernandarodriguez281099@gmail.com)
+- 📍 **Location**: Vancouver, Canada
+- 🔗 **LinkedIn**: [linkedin.com/in/fernandarodrigeztamez](https://www.linkedin.com/in/fernandarodrigeztamez/)
+
+---
+
+<div style="margin-top: 40px; font-size: 0.9em; color: gray;">
+  I typically respond within 24–48 hours. Looking forward to hearing from you!
+</div>

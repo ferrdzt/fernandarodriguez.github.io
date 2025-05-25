@@ -1,0 +1,18 @@
+---
+title: "About"
+format: html
+---
+
+## 👋 About Me
+
+Hello! I'm Fernanda Rodriguez, an MBA candidate with a concentration in Business Analytics at University Canada West.
+
+With a background in Psychology and hands-on experience in recruitment, data analysis, and retail, I bring a unique mix of analytical thinking and human insight to business challenges. I'm especially passionate about leveraging AI, data, and marketing technology to drive smarter decisions and real business value.
+
+---
+
+## 🔍 Areas of Interest
+- Customer Behavior & Journey Mapping
+- Data-Driven Marketing & Analytics  
+- Recruitment & Talent Analytics  
+- Large Language Models (LLMs) in Business  
