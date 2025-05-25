@@ -9,3 +9,18 @@ format:
       - brand
     css: styles.css
     toc: true
+
+website:
+  title: Fernanda Rodriguez | MBA Portfolio
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+      - href: contact.qmd
+        text: Contact
